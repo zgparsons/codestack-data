@@ -108,6 +108,25 @@
     ]
   },
   {
+    "username": "originalzedders",
+    "stack": [
+      "HTML5",
+      "CSS3",
+      "JavaScript",
+      "Eleventy",
+      "Node.js",
+      "Express",
+      "MongoDB"
+      ],
+    "setup": [
+      "Visual Studio Code",
+      "Brave",
+      "Google Chrome",
+      "Windows",
+      "Android"
+      ]
+  },
+  {
     "username": "shu8up",
     "stack": [
       "Node.js",
